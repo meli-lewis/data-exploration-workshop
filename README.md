@@ -13,11 +13,7 @@ If you're already a Python 3 user comfortable with virtual environments, you can
 #### 1: Get this repo on your machine.
 
   - If you'd like to use Git to do so, continue with these directions.
-<<<<<<< HEAD
   - If not, select ![Clone or Download](b.png) and choose "Download ZIP." Unzip the file, taking note of where it was downloaded, and skip to [2: Ensure you have Python 3](#2-ensure-you-have-python-3).
-=======
-  - If not, select ![Clone or Download](b.png) and choose "Download ZIP." Unzip the file, taking note of where it was downloaded, and skip to [2: Ensure you have Python 3](2-ensure-you-have-python-3).
->>>>>>> c789f58... Add documentation and requirements
 
 1. Check that Git is installed:
     ```bash
