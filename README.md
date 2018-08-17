@@ -29,11 +29,9 @@ If you're already a Python 3 user comfortable with virtual environments, you can
 #### 2: Ensure you have Python 3.
 
   1. Check that Python 3 is installed:
-
     ```bash
     which python3
     ```
-
     - If it's installed, it should return a path (e.g., `/usr/local/bin/python3`).
     - If it's not installed, you can download it from [python.org](https://www.python.org/downloads/)
 
