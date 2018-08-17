@@ -1,10 +1,12 @@
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/meli-lewis/data-exploration-workshop/master)
+
 # Data Exploration with Python
 
 This repository contains code and datasets to facilitate a workshop on using Python for data exploration, including steps for data acquisition, cleaning and normalization.
 
 ## Getting Started
 
-For the August 2018 workshop, you need simply enter this repository's URL at [mybinder.org](https://mybinder.org/)!
+For the August 2018 workshop, you need simply visit [this mybinder.org link](https://mybinder.org/v2/gh/meli-lewis/data-exploration-workshop/master?filepath=notebooks%2Fpractice_notebook.ipynb)!
 
 ### If you want this code to run locally
 
