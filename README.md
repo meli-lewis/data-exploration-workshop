@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/meli-lewis/data-exploration-workshop/master)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/meli-lewis/data-exploration-workshop/master?filepath=practice_notebook.ipynb)
 
 # Data Exploration with Python
 
@@ -6,7 +6,7 @@ This repository contains code and datasets to facilitate a workshop on using Pyt
 
 ## Getting Started
 
-For the August 2018 workshop, you need simply visit [this mybinder.org link](https://mybinder.org/v2/gh/meli-lewis/data-exploration-workshop/master?filepath=notebooks%2Fpractice_notebook.ipynb)!
+For the August 2018 workshop, you need simply visit [this mybinder.org link](https://mybinder.org/v2/gh/meli-lewis/data-exploration-workshop/master?filepath=practice_notebook.ipynb)!
 
 ### If you want this code to run locally
 
@@ -47,7 +47,7 @@ If you're already a Python 3 user comfortable with virtual environments, you can
   ```
       - If you're using a Windows OS:
   ```
-      c:\>c:\Python35\python -m venv c:\path\to\myenv
+    c:\>c:\Python35\python -m venv c:\path\to\myenv
   ```
 
 **Activation** | Here there's some more variation. You can find the following table in the virtual environment documentation, but I'm including it here for convenience.
